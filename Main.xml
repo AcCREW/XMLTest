@@ -1,0 +1,15 @@
+﻿<a:Application 
+  xmlns:a="Application"
+  xmlns:t="Template">
+  <a:Template name="Main">
+    <t:HTML>
+      <head>
+        <title>OMG</title>
+      </head>
+      <body>
+        <![CDATA[
+        ]]>
+      </body>
+    </t:HTML>
+  </a:Template>
+</a:Application>
